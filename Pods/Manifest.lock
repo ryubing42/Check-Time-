@@ -1,0 +1,26 @@
+PODS:
+  - Anchorage (4.5.0)
+  - IQKeyboardManagerSwift (6.5.11)
+  - LookinServer (1.1.5):
+    - LookinServer/Core (= 1.1.5)
+  - LookinServer/Core (1.1.5)
+
+DEPENDENCIES:
+  - Anchorage
+  - IQKeyboardManagerSwift
+  - LookinServer
+
+SPEC REPOS:
+  trunk:
+    - Anchorage
+    - IQKeyboardManagerSwift
+    - LookinServer
+
+SPEC CHECKSUMS:
+  Anchorage: 1961bc81c84aeed54ad7ffc697c50cd9de748ba6
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  LookinServer: 2893f2bae53cbf3fd49bbe1a8ea1745582ef1317
+
+PODFILE CHECKSUM: 335ee35022ade3d70907a54109d1ae8f9d3f35b0
+
+COCOAPODS: 1.11.3
